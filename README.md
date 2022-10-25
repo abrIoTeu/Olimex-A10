@@ -55,6 +55,7 @@ It can be used as:
 <h1>Languages and Tools</h1>
 
 <div>
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/Debian.png" height="80px" width="80px">
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/NodeRED.png" height="80px" width="80px">
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/JavaScript.png" height="80px" width="80px">
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/HTML.png" height="80px" width="80px">
