@@ -50,4 +50,4 @@ It can be used as:
 - A device for primitive local AI: recognizing images and commands (e.g. with TensorFlow), analyzing home conditions and making predictions or decisions (e.g. with regressions)
 - A music center: playing music or sounds (like doorbell)
 - A security and alerting device: collecting data about the property (energy consumtpion, door/windows state, movement, smoke or fire) and sending alarms via different channels like email, Messenger or Telegram
-- A control interface: Node-RED UI allows the development of custom interfaces. You may use JavaScript, HTML and CSS to desing custom webpages and publish them on a local webserver
+- A HMI interface: Node-RED UI allows the development of custom interfaces. You may use JavaScript, HTML and CSS to desing custom webpages and publish them on a local webserver
