@@ -78,6 +78,7 @@ It can be used as:
 Linux Debian, Node-RED, JavaScript, HTML, InfluxDB, MQTT, modbus
 
 <h1>Contact</h1>
-
-<a href="https://www.abriot.eu" target="_blank">abriot.eu</a>
-<a href="mailto:abriot.eu@gmail.com" target="_blank">abriot.eu@gmail.com</a>
+<div>
+  <div>web: <a href="https://www.abriot.eu" target="_blank">abriot.eu</a></div>
+  <div>email: <a href="mailto:abriot.eu@gmail.com" target="_blank">abriot.eu@gmail.com</a></div>
+</div>
