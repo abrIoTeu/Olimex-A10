@@ -55,11 +55,10 @@ It can be used as:
 <h1>Languages and Tools</h1>
 
 <div>
-  <a href="https://www.debian.org" target="_blank" img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/Debian.png" height="80px" width="80px">
-  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/NodeRED.png" height="80px" width="80px"></a>
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/NodeRED.png" height="80px" width="80px">
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/JavaScript.png" height="80px" width="80px">
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/HTML.png" height="80px" width="80px">
-  <a href="https://www.influxdata.com" target="_blank"><img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/InfluxDB.png" height="80px" width="80px"></a>
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/InfluxDB.png" height="80px" width="80px">
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/MQTT.png" height="80px" width="80px">
   <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/modbus.png" height="80px" width="80px">
 </div>
