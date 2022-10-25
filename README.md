@@ -12,7 +12,7 @@ The energy consumption of the board is very low, it works with a 5V power supply
 
 The image contains the following packages:
 - Linux Debian minimal installation (based on Olimex public disk images). I.e. no graphical interface www.olimex.com
-- Node-RED installation www.nodered.org
+- Node-RED installation with modbus and email nodes www.nodered.org
 - Mosquitto MQTT borker installation www.mosquitto.org
 - InfluxDB installation www.influxdata.com
 
@@ -35,3 +35,19 @@ password: olimex
 You may access the board by SSH or by connecting a keyboard to the USB port and a screen to the HDMI port.
 
 The default IP for the board is 192.168.0.80 -> this and other ethernet settings may be changed anytime later.
+
+<h2>Utilization of the board</h2>
+
+The image is aimed for home automation purposes. Olimex A10 may serve as a home automation server with the image installed.
+
+It can be used as:
+- A modbus master: polling data and controlling modbus slave devices via modbus RTU or TCP. For modbus RTU, you will need a RS485 to USB converter
+- An MQTT borker: collecting data via MQTT protocol from local devices
+- A data log: by using InfluxDB, tons of metrics may be stored and analyzed later (e.g. temperature, humidity, energy consumption etc.)
+- A gateway for web-based APIs like Open Weather Map or Spotify
+- As a custom API: receiving and sending remote commands via ethernet by using hash algorithms (e.g. SHA-512)
+- An MQTT subscriber: sending and receiving data to and from public MQTT brokers
+- A device for primitive local AI: recognizing images and commands (e.g. with TensorFlow), analyzing home conditions and making predictions or decisions (e.g. with regressions)
+- A music center: playing music or sounds (like doorbell)
+- A security and alerting device: collecting data about the property (energy consumtpion, door/windows state, movement, smoke or fire) and sending alarms via different channels like email, Messenger or Telegram
+- A control interface: Node-RED UI allows the development of custom interfaces. You may use JavaScript, HTML and CSS to desing custom webpages and publish them on a local webserver
