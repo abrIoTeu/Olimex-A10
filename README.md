@@ -1,5 +1,12 @@
 <h1>abrIoT SD Card Image for Olimex-A10</h1>
 
+<h2>Dowload</h2>
+
+Disk image is a large file, 1.83GB and, therefore, is downloadable from our Google Drive folder.
+
+<a href="https://drive.google.com/drive/folders/1txmobx2sUAEdND8ckU6oaFwQzqN48iTZ?usp=sharing" download>DOWNLOAD OLIMEX A10 DISK IMAGE</a>
+
+
 <h2>What is this image for?</h2>
 
 This SD card image is a complete image for Olimex A10 Linux single board computer (SBC). For information about the board, please refer to www.olimex.com.
