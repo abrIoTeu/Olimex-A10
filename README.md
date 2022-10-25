@@ -51,3 +51,23 @@ It can be used as:
 - A music center: playing music or sounds (like doorbell)
 - A security and alerting device: collecting data about the property (energy consumtpion, door/windows state, movement, smoke or fire) and sending alarms via different channels like email, Messenger or Telegram
 - A HMI interface: Node-RED UI allows the development of custom interfaces. You may use JavaScript, HTML and CSS to desing custom webpages and publish them on a local webserver
+
+<h1>Languages and Tools</h1>
+
+<div>
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/Debian.png" height="80px" width="80px">
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/NodeRED.png" height="80px" width="80px">
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/JavaScript.png" height="80px" width="80px">
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/HTML.png" height="80px" width="80px">
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/InfluxDB.png" height="80px" width="80px">
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/MQTT.png" height="80px" width="80px">
+  <img src="https://github.com/abrIoTeu/abrIoTeu/blob/main/modbus.png" height="80px" width="80px">
+</div>
+
+---
+
+Linux Debian, Node-RED, JavaScript, HTML, InfluxDB, MQTT, modbus
+
+<h1>Contact</h1>
+
+<a href="mailto:abriot.eu@gmail.com" target="_blank">abriot.eu@gmail.com</a>
